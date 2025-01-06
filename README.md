@@ -1,5 +1,6 @@
 # Hrythm-ML
 ![image](https://github.com/user-attachments/assets/6ac2d17a-82d5-4051-98e0-5da54c3fdb18)
+![image](https://github.com/user-attachments/assets/6c12f682-dcb0-4aae-8562-5393447edc95)
 
 ---
 
@@ -78,3 +79,5 @@
 ---
 
 팀 Hrythm은 Analytics Vidhya 대회를 통해 머신러닝을 사용하여, 실제 비즈니스 문제를 해결하는 데 의미 있는 기여를 목표로 했습니다.
+
+
