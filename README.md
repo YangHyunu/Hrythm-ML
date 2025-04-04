@@ -378,5 +378,6 @@ optimizer.train_best_models()
 ---
 
 ## 📎 참고 자료
-- 📂 [사후 대시보드 및 EDA 보기](./HR_Promotion_prediction.pdf)
-- 📂 [최종 보고서 PDF 보기](./HR_Promotion_prediction.pdf)
+- 📂 [사후 대시보드 및 EDA 보기](./대시보드_EDA.pdf)
+- 📂 [최종 보고서 PDF 보기](./HR_Project.pdf)
+- 📂 [최종 코드](./last_version.ipynb)
